@@ -1,0 +1,1 @@
+Esse projeto envolve um CRUD com php puro, uso básico de javascript puro também e o CSS é feito com bootstrap
