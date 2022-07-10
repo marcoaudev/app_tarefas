@@ -1,1 +1,1 @@
-Esse projeto envolve um CRUD com php puro, uso básico de javascript puro também e o CSS é feito com bootstrap
+Esse projeto que envolve um CRUD com Php vanilha, uso básico de Javascript e o CSS é feito com bootstrap
